@@ -13,7 +13,7 @@ APLICAÇÃO EM PARTICULAR.
  
 # Contato:
  
- Site: <http://www.bktech.com.br>
+ Site: <https://www.bktech.com.br>
  E-mail: <treina@bktech.com.br>
  
  Desenvolvedor: Fabio Soares Schmidt <fabio@respirandolinux.com.br> ou <https://respirandolinux.com.br>
