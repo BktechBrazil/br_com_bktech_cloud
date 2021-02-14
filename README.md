@@ -18,7 +18,7 @@ APLICAÇÃO EM PARTICULAR.
  
  Desenvolvedor: Fabio Soares Schmidt <fabio@respirandolinux.com.br> ou <https://respirandolinux.com.br>
 
-######################################################################################################
+#####################################################################################################
 										
 [README - v1.0.0]
 
