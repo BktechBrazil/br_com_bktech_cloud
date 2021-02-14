@@ -1,3 +1,5 @@
+# Zimlet para Zimbra 8.x que adiciona um ícone na interface web para abrir um link externo
+
 # Copyright (C) 2019-2021  Fabio Soares Schmidt <fabio@respirandolinux.com.br> 
 
 # DISTRIBUÍDO SOB A LICENÇA CREATIVE COMMONS: Atribuição-NãoComercial-CompartilhaIgual (CC BY-NC-SA)
@@ -32,8 +34,6 @@ APLICAÇÃO EM PARTICULAR.
 # UTILIZAÇÃO
  
  (FAVOR LER O ARQUIVO INSTALL)
-
-# Zimlet para Zimbra 8.x que adiciona um ícone na interface web para abrir um link externo
 
 ## Screenshot com o ícone do Zimlet sendo carregado no **canto superior direito**. Ao clicar, será aberta em uma nova aba a URL desejada:
 
