@@ -1,0 +1,4 @@
+<zimlet name="br_com_bktech_cloud" version="0.0.2" label="Additional Link" description="Additional Link" target="main view-window">
+	<include>br_com_bktech_cloud.js</include>
+	<handlerObject>br_com_bktech_cloud_HandlerObject</handlerObject>
+</zimlet>
