@@ -9,7 +9,7 @@ ao CRIADOR o devido crédito (banner original e Copyright), e que licenciem as n
 distribuído na esperança de que possa ser útil, mas SEM NENHUMA GARANTIA; sem uma garantia implícita de ADEQUAÇÃO a qualquer MERCADO ou 
 APLICAÇÃO EM PARTICULAR.
  
-#################################################################################################################################
+####################################################################################################
  
 # Contato:
  
@@ -18,7 +18,7 @@ APLICAÇÃO EM PARTICULAR.
  
  Desenvolvedor: Fabio Soares Schmidt <fabio@respirandolinux.com.br> ou <https://respirandolinux.com.br>
 
-#################################################################################################################################
+######################################################################################################
 										
 [README - v1.0.0]
 
